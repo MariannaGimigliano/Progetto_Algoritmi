@@ -1,0 +1,31 @@
+p P001 100
+K P001
+p P2 150
+p Pss3 200
+P P04 300
+c C01 
+c Ck2
+C C3
+a Ck2 P2 2
+a Ck2 Pss3 3
+a C01 P001 2
+a C01 P2 3
+A C3 P04 3
+A C01 Pss3 1
+V C01
+V Ck2
+V C3
+r Ck2 Pss3 2
+r C01 P001 4
+k P2
+A C01 P2 1
+V C01
+V Ck2
+V C3
+K Pss3
+V C01
+V Ck2
+V C3
+K C01
+V c01
+
